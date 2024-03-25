@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>URL Pocetne Stranice</loc>
+    <loc>https://milos860.github.io/botanicki-raj/index.html</loc>
     <priority>1.0</priority>
     <lastmod>2024-03-26</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>URL O Nama</loc>
+    <loc>https://milos860.github.io/botanicki-raj/pages/o-nama.html</loc>
     <priority>0.8</priority>
     <lastmod>2024-03-26</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>URL Galerije</loc>
+    <loc>https://milos860.github.io/botanicki-raj/pages/galerija.html</loc>
     <priority>0.7</priority>
     <lastmod>2024-03-26</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>URL Prodavnice</loc>
+    <loc>https://milos860.github.io/botanicki-raj/pages/prodavnica.html</loc>
     <priority>0.5</priority>
     <lastmod>2024-03-26</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>URL O Autoru</loc>
+    <loc>https://milos860.github.io/botanicki-raj/pages/autor.html</loc>
     <priority>0.6</priority>
     <lastmod>2024-03-26</lastmod>
+    <changefreq>never</changefreq>
   </url>
 </urlset>
