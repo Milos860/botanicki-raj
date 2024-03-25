@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: <dodajte URL sitemap.xml>
+Sitemap: https://milos860.github.io/botanicki-raj/sitemap.xml
