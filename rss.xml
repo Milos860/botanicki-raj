@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Botanički Raj - Časopis o cvećarstvu</title>
+    <link>URL Pocetne Stranice</link>
+    <description>Dobrodošli u Botanički Raj - vaš izvor informacija o cvećarstvu, baštovanstvu i biljnom svetu!</description>
+    <item>
+      <title>5 Saveta za Uzgajanje Ruža</title>
+      <link>URL Članka o Uzgajanju Ruža</link>
+      <description>U ovom članku saznajte pet korisnih saveta za uzgajanje ruža u vašem vrtu. Otkrijte kako da im pružite idealne uslove za rast i cvetanje.</description>
+      <category>Saveti za Baštovanstvo</category>
+      <pubDate>Thu, 26 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Najnovije Trendovi u Aranžiranju Cveća</title>
+      <link>URL Članka o Trendovima u Aranžiranju Cveća</link>
+      <description>Ovde su najnoviji trendovi u aranžiranju cveća koji će vas inspirisati za dekorisanje vašeg doma ili događaja. Saznajte kako da napravite spektakularne cvetne aranžmane koristeći najnovije tehnike.</description>
+      <category>Dekoracija Cvećem</category>
+      <pubDate>Thu, 26 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
