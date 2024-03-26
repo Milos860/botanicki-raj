@@ -60,6 +60,9 @@
     .responsive-p-index-icons{
       font-size: 20px !important;
     }
+    .h2-o-nama{
+      font-size: 20px!important;
+    }
   }
   @media screen and (max-width: 370px) {
     .size-h1-header{
@@ -79,5 +82,9 @@
     }
     .fsfs {
       font-size: 40px;
+    }
+    .h2-o-nama{
+      font-size: 15px!important;
+      margin: 0px;
     }
   }
