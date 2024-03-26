@@ -1,11 +1,18 @@
-
+@media screen and (max-width: 1400px) {
+  .card-body h5{
+    font-size: 20px!important;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .card-body h5{
+    font-size: 18px!important;
+  }
+}
  @media screen and (max-width: 1380px) {
     .res-footer{
         font-size: 20px!important;
     }
   }
-  
-  /* Stilovi za ekrane širine 1200px i manje */
   @media screen and (max-width: 1200px) {
     .res-footer{
         font-size: 17px!important;
@@ -14,13 +21,6 @@
         font-size: 19px!important;
     }
   }
-  
-  /* Stilovi za ekrane širine 992px i manje */
-  @media screen and (max-width: 992px) {
-    /* Vaši stilovi za ekrane širine 992px i manje */
-  }
-  
-  /* Stilovi za ekrane širine 768px i manje */
   @media screen and (max-width: 768px) {
     .size-h1-header{
         font-size: 40px;
@@ -28,15 +28,37 @@
     .size-p-header{
         font-size: 30px;
     }
+    .card-body h5{
+      font-size: 2rem !important;
+    }
+    .carousel-item img{
+      height: 480px;
+    }
   }
-  
-  /* Stilovi za ekrane širine 576px i manje */
   @media screen and (max-width: 576px) {
     .size-h1-header{
         font-size: 30px;
     }
     .size-p-header{
         font-size: 20px;
+    }
+    .carousel-item img{
+      height: 280px;
+    }
+    .style-gallery-button{
+      font-size: 15px!important;
+    }
+    .paddingh1{
+      font-size: 59px;
+    }
+    .res-p-o-nama{
+      font-size: 15px!important;
+    }
+    .stil-h2-nas-tim{
+      font-size: 27px;
+    }
+    .responsive-p-index-icons{
+      font-size: 20px !important;
     }
   }
   @media screen and (max-width: 370px) {
@@ -45,5 +67,17 @@
     }
     .size-p-header{
         font-size: 16px;
+    }
+    .resp-p-o-nama{
+      font-size: 16px!important;
+    }
+    .h1-position101{
+      font-size: 40px;
+    }
+    .responsive-p-index-icons{
+      font-size: 14px !important;
+    }
+    .fsfs {
+      font-size: 40px;
     }
   }
